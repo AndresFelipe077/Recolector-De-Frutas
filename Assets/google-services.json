@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "505175547833",
+    "project_id": "recolector-de-frutas-db579",
+    "storage_bucket": "recolector-de-frutas-db579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505175547833:android:a0e7bff343193122296068",
+        "android_client_info": {
+          "package_name": "com.FELPILGAMES.RecolectorDeFrutas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505175547833-gv1edsu0jt5sscq1gui6h08dfsgdqi61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB52kS-pFun48tV0qM8V77VegSb1oBKfoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505175547833-gv1edsu0jt5sscq1gui6h08dfsgdqi61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
